@@ -1,0 +1,15 @@
+@media (max-width: 991px) {
+    .advantages {
+        &__header {
+            font-size: 28px;
+        }
+        &__item {
+            padding-left: 8px;
+            padding-right: 8px;
+            width: 33%;
+        }
+        &__name {
+            font-size: 17px;
+        }
+    }
+}

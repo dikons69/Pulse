@@ -1,0 +1,10 @@
+@import "promo_media";
+@import "header_media";
+@import "buttons_media";
+@import "advantages_media";
+
+@media (max-width: 1200px) {
+    .container {
+        max-width: 80%;
+    }
+}

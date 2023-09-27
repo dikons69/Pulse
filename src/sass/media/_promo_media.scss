@@ -1,0 +1,22 @@
+@media (max-width: 1200px) {
+    .promo {
+        background-position: 30% center;
+    }
+}
+
+@media (max-width: 991px) {
+    .promo {
+        &__header {
+            font-size: 38px;
+        }
+        &__subheader {
+            font-size: 21px;
+        }
+        &__icons {
+            width: 370px;
+        }
+        &__link {
+            font-size: 15px;
+        }
+    }
+}
